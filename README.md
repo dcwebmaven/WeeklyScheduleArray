@@ -1,5 +1,5 @@
 # WeeklyScheduleArray
-This is a modification of the code for the Daily Schedule array that prints out a weekly schedule.
+This PHP project is a modification of the code for the Daily Schedule array that prints out a weekly schedule.
 
 Here are the specs for the project:
 
